@@ -6,5 +6,4 @@ Repositório criado durante uma aula ao vivo!
 Essa linha eu adicionei diretamente no site!
 
 Dia 29 de janeiro / Testando repositório
-Dia 19 de fevereiro / Testando repositório 
-
+Dia 19 de fevereiro / Testando repositório
